@@ -1,5 +1,4 @@
-![](https://raw.githubusercontent.com/Tencent/ncnn/master/images/256-ncnn.png)
-# ncnn
+# ncnn support darknet
 
 [![License](https://img.shields.io/badge/license-BSD--3--Clause-blue.svg)](https://raw.githubusercontent.com/Tencent/ncnn/master/LICENSE.txt) 
 [![Build Status](https://travis-ci.org/Tencent/ncnn.svg?branch=master)](https://travis-ci.org/Tencent/ncnn)
